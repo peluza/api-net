@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\curso-net\\webapi\\webapi.csproj": {}
+    "c:\\Users\\USUARIO\\curso-net\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\curso-net\\webapi\\webapi.csproj": {
+    "c:\\Users\\USUARIO\\curso-net\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\curso-net\\webapi\\webapi.csproj",
+        "projectUniqueName": "c:\\Users\\USUARIO\\curso-net\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\USUARIO\\curso-net\\webapi\\webapi.csproj",
+        "projectPath": "c:\\Users\\USUARIO\\curso-net\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\curso-net\\webapi\\obj\\",
+        "outputPath": "c:\\Users\\USUARIO\\curso-net\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,18 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
