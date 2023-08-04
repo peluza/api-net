@@ -31,3 +31,9 @@ C:\Users\USUARIO\curso-net\webapi\obj\Debug\net7.0\refint\webapi.dll
 C:\Users\USUARIO\curso-net\webapi\obj\Debug\net7.0\webapi.pdb
 C:\Users\USUARIO\curso-net\webapi\obj\Debug\net7.0\webapi.genruntimeconfig.cache
 C:\Users\USUARIO\curso-net\webapi\obj\Debug\net7.0\ref\webapi.dll
+C:\Users\USUARIO\curso-net\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\curso-net\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\curso-net\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\USUARIO\curso-net\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\curso-net\webapi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\USUARIO\curso-net\webapi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
